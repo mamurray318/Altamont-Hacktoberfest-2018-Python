@@ -20,10 +20,27 @@ print("hey, my name is FireflewDev (and bXIuIGphbWVzIGlzIGV4dHJh)")
 
 print("Hello, this is Henry. I want to sleep")
 
+print("Hello, goodbye :(")
+
+print("heyo there this be Colin Hatcher")
+
 print("Hello, my name is Naren")
 
 print("Hello, goodbye :(")
 
 print("Hello, my name is Harrison")
+
 name = ["l33t h@x0r", "Bud", "Dwite"]
 print("Hello my name is {}".format(name[random.randint(0,2)]))
+
+
+print("Hello, my name is Julie.")
+
+print("Mary Allen, you are awesome")
+
+print("Hello, my name is Inigo Montoya. You killed my father. Prepare to die!")
+print("Hello, my name is MShah. I want pizza")
+
+print("gucci!dab! am i cool now?")
+
+
