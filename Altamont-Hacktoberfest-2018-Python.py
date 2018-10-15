@@ -32,9 +32,18 @@ print("Hello, my name is Harrison")
 
 print("Hello, my name is Julie.")
 
+student = "Noah Warren"
+print("WHy aM i DoINg ThiS?  {}".format(student))
+
 print("Mary Allen, you are awesome")
 
 print("Hello, my name is Inigo Montoya. You killed my father. Prepare to die!")
+print("Hello, my name is MShah. I want pizza")
+
+print("Hello, my name is...........your worst nightmare.")
 
 print("Get to da Choppa AAAAGGGGHHH, I am De Terminator")
+
+print("gucci!dab! am i cool now?")
+
 
