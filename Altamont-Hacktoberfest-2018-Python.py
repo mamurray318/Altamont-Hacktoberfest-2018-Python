@@ -10,17 +10,31 @@ print("Hey there from {}".format(teacher))
 
 print("Hello, my name is Rob Dominguez.")
 
-print("Hello, my name is David");
+print("Hello, my name is David")
 
-print("Hello, my name is Davis");
+print("Hello, my name is Davis")
 
-print("Hello, my name is David");
+print("Hello, my name is David")
 
-print("hey, my name is FireflewDev\n (and bXIuIGphbWVzIGlzIGV4dHJh)");
+print("hey, my name is FireflewDev\n (and bXIuIGphbWVzIGlzIGV4dHJh)")
 
-print("Hello, this is Henry. I want to sleep");
+print("Hello, this is Henry. I want to sleep")
 
-print("Hello, goodbye :(");
+print("Hello, goodbye :(")
+
 print("heyo there this be Colin Hatcher")
+
+print("Hello, my name is Naren")
+
+print("Hello, goodbye :(")
+
+print("Hello, my name is Harrison")
+
+print("Hello, my name is Julie.")
+
+print("Mary Allen, you are awesome")
+
+print("Hello, my name is Inigo Montoya. You killed my father. Prepare to die!")
+
 
 
