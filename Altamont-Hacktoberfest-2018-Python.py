@@ -42,6 +42,9 @@ print("Hello, my name is MShah. I want pizza")
 
 print("Hello, my name is...........your worst nightmare.")
 
+
+print("Ahoy matey, my name be Edward Kenway")
+
 print("gucci!dab! am i cool now?")
 
 
